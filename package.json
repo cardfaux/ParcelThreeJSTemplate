@@ -1,0 +1,20 @@
+{
+  "name": "scrollimagewebgl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.8.3"
+  }
+}
